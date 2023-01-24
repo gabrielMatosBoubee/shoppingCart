@@ -1,0 +1,15 @@
+.ProductDetails {
+  align-items: center;
+  background-color: aliceblue;
+  border: 10px solid green;
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+  justify-content: center;
+  position: relative;
+  width: 80vw;
+}
+
+.ProductDetailsImg {
+  width: 200px;
+}
